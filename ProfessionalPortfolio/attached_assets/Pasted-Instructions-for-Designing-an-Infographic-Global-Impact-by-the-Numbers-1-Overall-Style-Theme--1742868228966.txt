@@ -1,0 +1,45 @@
+Instructions for Designing an Infographic: "Global Impact by the Numbers"
+1. Overall Style & Theme
+
+Design Style: Professional, modern, and visually engaging with a global business operations feel.
+Color Palette:
+Blue & Gold (to represent trust, growth, and success).
+White/Gray accents for readability and contrast.
+Fonts:
+Headline: Bold, sans-serif (e.g., Montserrat, Lato, or Open Sans).
+Body Text: Clean, easy-to-read sans-serif (e.g., Roboto, Nunito).
+2. Layout & Sections
+
+Title/Header:
+Place a bold, engaging title at the top: "Global Impact: By the Numbers"
+Add a short tagline below (optional): "Driving Economic Growth, Trade, and Innovation Worldwide"
+Visual Sections:
+Divide the infographic into 3-4 major thematic areas, using icons and colors for easy differentiation. Example:
+Economic Growth & Investments (dollar signs, bar charts, factory icons)
+Trade & Business Expansion (global maps, export/import arrows, cargo ship icons)
+Education & Workforce Development (books, student icons, graduation caps)
+Infrastructure & Logistics (roads, heavy equipment, airport icons)
+3. Key Data & Icons
+
+Each data point should be visually represented using icons, numbers, and short, impactful text.
+
+Metric	Visual Representation
+$8.19B+ in revenue generated	Stack of coins, rising bar chart
+$253.5M new investments secured	Briefcase or financial growth icon
+196+ SME-friendly laws passed	Document with checkmark icon
+42% increase in trade facilitation	Cargo ship, export/import arrows
+54% of students met reading benchmarks	Open book or graduation cap
+900+ schools stocked with 1.5M+ books	Bookshelf or schoolhouse icon
+600+ km of roads repaired	Road and construction worker icon
+16+ international trade shows sponsored	Globe with location pins
+$2.7M in air cargo trade facilitated	Airplane or package delivery icon
+4. Additional Elements
+
+Background: Subtle world map or abstract global business design.
+Call to Action (if needed): At the bottom, add a statement like “Driving Business & Economic Growth Across the Globe”.
+Company Branding (if applicable): Place logo or tagline in a footer section.
+5. Export & Format
+
+Dimensions: 1080x1920 px (vertical for web/social) or 1920x1080 px (horizontal for presentations).
+File Format: Export as PNG, JPEG, or PDF for high-quality sharing.
+Resolution: Ensure 300 DPI for print or 150 DPI for digital use.
